@@ -6,8 +6,8 @@ body {
 }
 
 mark {
-  background-color: yellow;
-  color: #33FFFF;
+  background-color: #33FFFF;
+  color: black;
 }
 
 #film {
