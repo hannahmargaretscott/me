@@ -5,6 +5,11 @@ body {
   color: #FF8A33;
 }
 
+mark {
+  background-color: yellow;
+  color: #33FFFF;
+}
+
 #film {
   text-align: left;
   font-family: 'helvetica';
