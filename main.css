@@ -9,16 +9,12 @@ body {
   text-align: left;
   font-family: 'helvetica';
   color: black;
-}
-
-#art {
-  text-align: left;
-  font-family: 'helvetica';
-  color: black;
+  padding-left: 50px;
 }
 
 #projects {
   text-align: left;
   font-family: 'helvetica';
   color: black;
+  padding-left: 50px;
 }
