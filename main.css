@@ -4,3 +4,21 @@ body {
   font-family: 'helvetica';
   color: #FF8A33;
 }
+
+#film {
+  text-align: left;
+  font-family: 'helvetica';
+  color: black;
+}
+
+#art {
+  text-align: left;
+  font-family: 'helvetica';
+  color: black;
+}
+
+#projects {
+  text-align: left;
+  font-family: 'helvetica';
+  color: black;
+}
