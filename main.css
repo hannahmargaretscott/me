@@ -15,6 +15,7 @@ mark {
   font-family: 'helvetica';
   color: black;
   padding-left: 50px;
+  padding-right: 50px;
 }
 
 #projects {
@@ -22,4 +23,5 @@ mark {
   font-family: 'helvetica';
   color: black;
   padding-left: 50px;
+  padding-right: 50px;
 }
